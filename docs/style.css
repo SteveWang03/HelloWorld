@@ -1,2 +1,9 @@
-body{background:orange;
+body{background:lightblue;
 margin:100px;}
+span.object1{color:blue}
+span.object2{color:red}
+span.object3{color:purple}
+span.game1{color:green}
+span.game2{color:yellow}
+span.game3{color:red}
+span.game4{color:brown}
